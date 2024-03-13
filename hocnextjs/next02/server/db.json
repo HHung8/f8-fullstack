@@ -1,0 +1,42 @@
+{
+  "todos": [
+    {
+      "name": "Học NextJS không khó",
+      "id": 1
+    },
+    {
+      "name": "Học Javascript",
+      "id": 2
+    },
+    {
+      "name": "Học HTML",
+      "id": 3
+    },
+    {
+      "name": "Học NodeJS",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "Hoàng An",
+      "id": 1
+    },
+    {
+      "name": "Thống",
+      "id": 2
+    },
+    {
+      "name": "Khoa",
+      "id": 3
+    },
+    {
+      "name": "Nam",
+      "id": 4
+    },
+    {
+      "name": "Cường",
+      "id": 5
+    }
+  ]
+}
